@@ -1,8 +1,4 @@
-# Análisis II - Análisis Matemático II - Matemática 3 — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** Ricardo Duran, Claudia Lederman
+# Análisis II — Primer cuatrimestre de 2012
 
 ## Prácticas
 
